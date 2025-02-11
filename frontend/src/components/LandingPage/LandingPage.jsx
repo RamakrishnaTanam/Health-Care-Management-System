@@ -213,3 +213,4 @@ function LandingPage() {
         </div>
     );
 }
+export default LandingPag;
